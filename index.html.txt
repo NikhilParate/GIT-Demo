@@ -2,5 +2,6 @@
 <body>
 <h2>Hello</h2>
 <p>New Changes from GitHub Repo</p>
+<p>Git Pull<p>
 </body>
 </html>
